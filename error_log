@@ -1,0 +1,47 @@
+[26-Aug-2018 16:40:36 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home/edartagnansas/public_html/dartagnan.com.co/nextu/modelo/listados.php on line 23
+[26-Aug-2018 16:41:38 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home/edartagnansas/public_html/dartagnan.com.co/nextu/modelo/listados.php on line 23
+[26-Aug-2018 16:41:42 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home/edartagnansas/public_html/dartagnan.com.co/nextu/modelo/listados.php on line 23
+[26-Aug-2018 16:42:53 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home/edartagnansas/public_html/dartagnan.com.co/nextu/modelo/listados.php on line 21
+[26-Aug-2018 16:57:56 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/edartagnansas/public_html/dartagnan.com.co/nextu/modelo/listados.php on line 17
+[26-Aug-2018 16:58:37 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/edartagnansas/public_html/dartagnan.com.co/nextu/modelo/listados.php on line 19
+[26-Aug-2018 17:49:11 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/edartagnansas/public_html/dartagnan.com.co/nextu/modelo/listados.php on line 21
+[26-Aug-2018 17:49:33 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/edartagnansas/public_html/dartagnan.com.co/nextu/modelo/listados.php on line 21
+[26-Aug-2018 17:51:09 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/edartagnansas/public_html/dartagnan.com.co/nextu/modelo/listados.php on line 21
+[26-Aug-2018 17:51:34 UTC] PHP Notice:  Undefined index: Ciudad in /home/edartagnansas/public_html/dartagnan.com.co/nextu/modelo/listados.php on line 9
+[26-Aug-2018 17:51:34 UTC] PHP Notice:  Undefined variable: ciudadesdepurado in /home/edartagnansas/public_html/dartagnan.com.co/nextu/modelo/listados.php on line 10
+[26-Aug-2018 17:51:34 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, null given in /home/edartagnansas/public_html/dartagnan.com.co/nextu/modelo/listados.php on line 10
+[26-Aug-2018 17:51:58 UTC] PHP Notice:  Undefined index: Ciudad in /home/edartagnansas/public_html/dartagnan.com.co/nextu/modelo/listados.php on line 9
+[26-Aug-2018 17:51:58 UTC] PHP Notice:  Undefined variable: ciudadesdepurado in /home/edartagnansas/public_html/dartagnan.com.co/nextu/modelo/listados.php on line 10
+[26-Aug-2018 17:51:58 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, null given in /home/edartagnansas/public_html/dartagnan.com.co/nextu/modelo/listados.php on line 10
+[26-Aug-2018 17:52:08 UTC] PHP Notice:  Undefined index: Ciudad in /home/edartagnansas/public_html/dartagnan.com.co/nextu/modelo/listados.php on line 9
+[26-Aug-2018 17:52:08 UTC] PHP Notice:  Undefined variable: ciudadesdepurado in /home/edartagnansas/public_html/dartagnan.com.co/nextu/modelo/listados.php on line 10
+[26-Aug-2018 17:52:08 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, null given in /home/edartagnansas/public_html/dartagnan.com.co/nextu/modelo/listados.php on line 10
+[26-Aug-2018 17:52:14 UTC] PHP Notice:  Undefined index: Ciudad in /home/edartagnansas/public_html/dartagnan.com.co/nextu/modelo/listados.php on line 9
+[26-Aug-2018 17:52:14 UTC] PHP Notice:  Undefined variable: ciudadesdepurado in /home/edartagnansas/public_html/dartagnan.com.co/nextu/modelo/listados.php on line 10
+[26-Aug-2018 17:52:14 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, null given in /home/edartagnansas/public_html/dartagnan.com.co/nextu/modelo/listados.php on line 10
+[26-Aug-2018 17:53:08 UTC] PHP Notice:  Undefined index: Ciudad in /home/edartagnansas/public_html/dartagnan.com.co/nextu/modelo/listados.php on line 9
+[26-Aug-2018 17:53:08 UTC] PHP Notice:  Undefined variable: ciudadesdepurado in /home/edartagnansas/public_html/dartagnan.com.co/nextu/modelo/listados.php on line 10
+[26-Aug-2018 17:53:08 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, null given in /home/edartagnansas/public_html/dartagnan.com.co/nextu/modelo/listados.php on line 10
+[26-Aug-2018 17:53:41 UTC] PHP Notice:  Undefined index: Ciudad in /home/edartagnansas/public_html/dartagnan.com.co/nextu/modelo/listados.php on line 9
+[26-Aug-2018 17:53:41 UTC] PHP Notice:  Undefined variable: ciudadesdepurado in /home/edartagnansas/public_html/dartagnan.com.co/nextu/modelo/listados.php on line 10
+[26-Aug-2018 17:53:41 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, null given in /home/edartagnansas/public_html/dartagnan.com.co/nextu/modelo/listados.php on line 10
+[26-Aug-2018 17:54:50 UTC] PHP Notice:  Undefined index: Ciudad in /home/edartagnansas/public_html/dartagnan.com.co/nextu/modelo/listados.php on line 7
+[26-Aug-2018 17:54:50 UTC] PHP Notice:  Undefined variable: ciudadesdepurado in /home/edartagnansas/public_html/dartagnan.com.co/nextu/modelo/listados.php on line 8
+[26-Aug-2018 17:54:50 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, null given in /home/edartagnansas/public_html/dartagnan.com.co/nextu/modelo/listados.php on line 8
+[26-Aug-2018 17:55:54 UTC] PHP Notice:  Undefined index: Ciudad in /home/edartagnansas/public_html/dartagnan.com.co/nextu/modelo/listados.php on line 7
+[26-Aug-2018 17:55:54 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, null given in /home/edartagnansas/public_html/dartagnan.com.co/nextu/modelo/listados.php on line 8
+[26-Aug-2018 17:55:59 UTC] PHP Notice:  Undefined index: Ciudad in /home/edartagnansas/public_html/dartagnan.com.co/nextu/modelo/listados.php on line 7
+[26-Aug-2018 17:55:59 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, null given in /home/edartagnansas/public_html/dartagnan.com.co/nextu/modelo/listados.php on line 8
+[26-Aug-2018 17:56:40 UTC] PHP Notice:  Undefined index: Ciudad in /home/edartagnansas/public_html/dartagnan.com.co/nextu/modelo/listados.php on line 7
+[26-Aug-2018 17:56:40 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, null given in /home/edartagnansas/public_html/dartagnan.com.co/nextu/modelo/listados.php on line 8
+[26-Aug-2018 17:58:35 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/edartagnansas/public_html/dartagnan.com.co/nextu/modelo/listados.php on line 21
+[26-Aug-2018 17:59:16 UTC] PHP Notice:  Undefined index: Ciudad in /home/edartagnansas/public_html/dartagnan.com.co/nextu/modelo/listados.php on line 9
+[26-Aug-2018 17:59:16 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, null given in /home/edartagnansas/public_html/dartagnan.com.co/nextu/modelo/listados.php on line 10
+[26-Aug-2018 18:03:00 UTC] PHP Notice:  Undefined index: Ciudad in /home/edartagnansas/public_html/dartagnan.com.co/nextu/modelo/listados.php on line 9
+[26-Aug-2018 18:03:00 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, null given in /home/edartagnansas/public_html/dartagnan.com.co/nextu/modelo/listados.php on line 10
+[26-Aug-2018 18:03:06 UTC] PHP Notice:  Undefined index: Ciudad in /home/edartagnansas/public_html/dartagnan.com.co/nextu/modelo/listados.php on line 9
+[26-Aug-2018 18:03:06 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, null given in /home/edartagnansas/public_html/dartagnan.com.co/nextu/modelo/listados.php on line 10
+[26-Aug-2018 18:05:54 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/edartagnansas/public_html/dartagnan.com.co/nextu/modelo/listados.php on line 12
+[26-Aug-2018 18:05:59 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/edartagnansas/public_html/dartagnan.com.co/nextu/modelo/listados.php on line 12
+[26-Aug-2018 18:07:10 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/edartagnansas/public_html/dartagnan.com.co/nextu/modelo/listados.php on line 12
+[26-Aug-2018 18:07:34 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/edartagnansas/public_html/dartagnan.com.co/nextu/modelo/listados.php on line 12
